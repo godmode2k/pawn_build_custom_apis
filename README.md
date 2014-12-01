@@ -10,6 +10,14 @@ PAWN
     PAWN licensed: zLib/libpng
 
 
+PAWN Build
+----------
+    pawn/linux/source/amx_new$ rm CMakeCache.txt
+    pawn/linux/source/amx_new$ cmake .
+    pawn/linux/source/compiler$ rm CMakeCache.txt
+    pawn/linux/source/compiler$ cmake .
+
+
 USE AT YOUR OWN RISK
 ----------
 > The sources show you how to build a VMCC, VMRUN and <br>
