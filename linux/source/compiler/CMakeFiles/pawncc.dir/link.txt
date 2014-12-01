@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/pawncc.dir/pawncc.o  -o pawncc -rdynamic -L/work/src/linux_app/vm/pawn__nix_win32/pawn/linux/source/compiler -lpthread libpawnc.so -lpthread -Wl,-rpath,/work/src/linux_app/vm/pawn__nix_win32/pawn/linux/source/compiler 

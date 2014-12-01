@@ -1,0 +1,2 @@
+/work/src/linux_app/vm/pawn__nix_win32/pawn/linux/source/compiler/CMakeFiles/pawnc.dir
+/work/src/linux_app/vm/pawn__nix_win32/pawn/linux/source/compiler/CMakeFiles/pawncc.dir

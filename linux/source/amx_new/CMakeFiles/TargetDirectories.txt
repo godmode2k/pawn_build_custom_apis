@@ -1,0 +1,10 @@
+/work/src/linux_app/vm/pawn__nix_win32/pawn/linux/source/amx_new/CMakeFiles/amxArgs.dir
+/work/src/linux_app/vm/pawn__nix_win32/pawn/linux/source/amx_new/CMakeFiles/amxDGram.dir
+/work/src/linux_app/vm/pawn__nix_win32/pawn/linux/source/amx_new/CMakeFiles/amxFile.dir
+/work/src/linux_app/vm/pawn__nix_win32/pawn/linux/source/amx_new/CMakeFiles/amxFixed.dir
+/work/src/linux_app/vm/pawn__nix_win32/pawn/linux/source/amx_new/CMakeFiles/amxFloat.dir
+/work/src/linux_app/vm/pawn__nix_win32/pawn/linux/source/amx_new/CMakeFiles/amxProcess.dir
+/work/src/linux_app/vm/pawn__nix_win32/pawn/linux/source/amx_new/CMakeFiles/amxString.dir
+/work/src/linux_app/vm/pawn__nix_win32/pawn/linux/source/amx_new/CMakeFiles/amxTime.dir
+/work/src/linux_app/vm/pawn__nix_win32/pawn/linux/source/amx_new/CMakeFiles/pawndbg.dir
+/work/src/linux_app/vm/pawn__nix_win32/pawn/linux/source/amx_new/CMakeFiles/pawnrun.dir

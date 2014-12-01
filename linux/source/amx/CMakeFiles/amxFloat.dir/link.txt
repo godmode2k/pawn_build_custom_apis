@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC    -shared -Wl,-soname,amxFloat.so -o amxFloat.so CMakeFiles/amxFloat.dir/float.o CMakeFiles/amxFloat.dir/amx.o -lm 
